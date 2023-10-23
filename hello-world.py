@@ -1,2 +1,2 @@
-print(' ache Hello World for Jenkins Job by yakin')
+print(' My first python job which is run within Jenkinsfile.')
 
